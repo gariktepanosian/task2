@@ -3,8 +3,8 @@ sugar
 sugar
 string
 string
-text
-text
+clonerepo
+clonerepo
 text
 text
 text
