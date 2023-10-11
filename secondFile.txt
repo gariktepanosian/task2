@@ -1,6 +1,8 @@
 this is a second file
 varchar
 varchar
+string
+string
 text
 text
 text
