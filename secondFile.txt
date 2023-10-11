@@ -1,6 +1,6 @@
 this is a second file
-text
-text
+string
+string
 text
 text
 text
